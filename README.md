@@ -40,4 +40,4 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - [A Summer's End — Hong Kong 1986](https://vndb.org/v26444) - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`
 - [Tiny Bunny](https://vndb.org/v21418) **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`
 - [Guilty Parade](https://vndb.org/v25612) **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`
-- *Post the title you want to recommend to me here. They should be playable on Android.*
+- *Post the title you want to recommend to me here. It should be playable on Android.*
