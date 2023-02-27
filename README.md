@@ -13,3 +13,4 @@ I'm sure you're aware of the global events that have been unfolding since 2020, 
 VNs offer a truly unique experience where you can deeply connect with your character even more than in virtual reality. This is a highly personal and indescribable experience that is challenging to put into words. It's important to note that I don't view visual novels as dating sims or anything alike. Rather, I consider them a distinct art form that effectively promotes mental health and encourages innovative thinking. Moreover, top visual novel titles can make an equally strong impression as the best movies, TV series, or books. As you know, the problem of poor content is growing every year, but visual novels offer a refreshing addition to the world of entertainment.
 
 [visual novel]: https://en.wikipedia.org/wiki/Visual_novel
+[panic disorder]: https://en.wikipedia.org/wiki/Panic_disorder
