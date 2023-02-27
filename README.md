@@ -29,3 +29,15 @@ The items in the list are arranged based on the impact they had on me, from the 
 8. [Sharin no Kuni, Himawari no Shoujo](https://vndb.org/v57) - In a society where special *Duties* are imposed upon lawbreakers, a student hopes to become part of the *Special Elite* and encounters girls bound by various *Duties*, leading to a series of odd discoveries about his past and the truth behind the Land of the Spinning Wheel. `18+` `KiriKiri`
 9. [Everlasting Summer](https://vndb.org/v3126) - After fainting on a bus, Semyon awakens in a Soviet summer camp where he must participate in the daily activities of youth and meet girls, while seeking a way to return to reality. `16+` `Ren'Py`
 10. [Fate/Stay Night](https://vndb.org/v11) - In a great ritual, seven Masters and their Servants fight to obtain the Holy Grail, which can grant any wish, but only one can win. One high school student finds himself competing and summoning his own Servant. `18+` `KiriKiri`
+
+## Next in Line
+
+This is a list of visual novels that I plan to read or am currently reading. Many of them have yet to be checked by me.
+
+- [Ever 17: The Out of Infinity](https://vndb.org/v17) - Seven individuals are trapped in an underwater theme park and must find a way to escape within 119 hours while questioning the legitimacy of their predicament. `15+` `VNDS`
+- [CLANNAD](https://vndb.org/v4) - A high school student with a troubled past meets a strange girl on his way to school and begins to help her, leading to a change in his life's direction. `15+` `RealLive`
+- [Little Busters!](https://vndb.org/v5) - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`
+- [A Summer's End — Hong Kong 1986](https://vndb.org/v26444) - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`
+- [Tiny Bunny](https://vndb.org/v21418) **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`
+- [Guilty Parade](https://vndb.org/v25612) **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`
+- *Post the title you want to recommend to me here. They should be playable on Android.*
