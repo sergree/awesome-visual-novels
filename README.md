@@ -41,3 +41,20 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - [Tiny Bunny](https://vndb.org/v21418) **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`
 - [Guilty Parade](https://vndb.org/v25612) **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`
 - *Post a title you want to recommend to me here. It should be playable on Android.*
+
+## FAQ
+
+> *How do you choose the next visual novel that you will read?*
+
+I use several methods:
+- [My vndb.org queries](https://query.vndb.org/queries/ae3254ea-5103-43a4-a602-f9c6f38296d1)
+- [Anivisual.net list with specific filtering](https://anivisual.net/stuff/1-1-6-0-0-4-0-0)
+- Tips from my friends
+
+> *Why are only visual novels for Android listed here?*
+
+I strongly believe that a visual novel cannot be considered awesome if it cannot be run on Android. In this day and age, Android is the most popular operating system. Older VNs should be able to run successfully using emulators, and new ones should be developed with Android support right from the start. Visual novel developers who artificially limit the range of supported platforms show a lack of respect towards their readers. Personally, I'm not comfortable reading VNs while sitting at the computer after a long day of work.
+
+> *Why is my favorite visual novel not on this list yet?*
+
+I only read visual novels that can be played on Android. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
