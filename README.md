@@ -6,6 +6,14 @@ A curated list of my favorite visual novels for Android. This is **not** an offi
 
 > A [visual novel], often abbreviated as **VN**, is a form of digital semi-interactive fiction. Visual novels are often associated with and used in the medium of video games, but are not always labeled as such themselves. They combine a textual narrative with static or animated illustrations and a varying degree of interactivity.
 
+## Contents
+
+- [Why Visual Novels?](#why-visual-novels)
+- [My Top Picks](#my-top-picks)
+- [Next in Line](#next-in-line)
+- [FAQ](#faq)
+- [Contributing](#contributing)
+
 ## Why Visual Novels?
 
 I'm sure you're aware of the global events that have been unfolding since 2020, which have affected everyone, including myself. It all started with endless doomscrolling through depressing news, developing various neuroses and uncontrolled aggression, eventually leading to a severe [panic disorder]. I underwent treatment at a clinic for some time, took potent drugs, and attended consultations for my mental health. Despite trying various medications, relaxation techniques, and contemporary methods from specialized literature, nothing helped me as much as visual novels did. Yes, I'm serious.
