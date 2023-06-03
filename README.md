@@ -56,7 +56,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 
 I use several methods:
 - [My vndb.org queries](https://query.vndb.org/queries/ae3254ea-5103-43a4-a602-f9c6f38296d1)
-- [Anivisual.net list with specific filtering](https://anivisual.net/stuff/1-1-6-0-0-4-0-0)
+- [Anivisual.net list with specific filtering](https://anivisual.net/stuff/41-1-6-0-0-4-0-0)
 - Tips from my friends
 
 > *Why are only visual novels for Android listed here?*
