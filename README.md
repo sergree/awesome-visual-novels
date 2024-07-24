@@ -45,6 +45,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 
 This is a list of visual novels that I plan to read or am currently reading. Many of them have yet to be checked by me.
 
+- [ATRI -My Dear Moments-](https://vndb.org/v27448) - A disillusioned young man, aided by a mysterious debt collector and a sentient robot girl, searches for his grandmother's lost treasure in a flooded world. `15+` `KiriKiri`
 - [Little Busters!](https://vndb.org/v5) - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`
 - [Tiny Bunny](https://vndb.org/v21418) **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`
 - [Guilty Parade](https://vndb.org/v25612) **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`
