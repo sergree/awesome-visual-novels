@@ -57,6 +57,9 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 > *How do you choose the next visual novel that you will read?*
 
 I use several methods:
+- [vn-russian.ru list](https://vn-russian.ru/chart/?sort=-visual_novel__rate)
+- [ruvn.org list with specific filtering](https://ruvn.org/novels?sort=mixRating)
+- VK groups like [НВН](https://vk.com/visualnovel_ru), [Визуальные новеллы для Android](https://vk.com/visual_android), [Энтузиасты Team](https://vk.com/littlebustersvn), [Творческий уголок переводчиков](https://vk.com/creative_corner_vn)
 - [My vndb.org queries](https://query.vndb.org/queries/ae3254ea-5103-43a4-a602-f9c6f38296d1)
 - [Anivisual.net list with specific filtering](https://anivisual.net/stuff/41-1-6-0-0-4-0-0)
 - Tips from my friends
