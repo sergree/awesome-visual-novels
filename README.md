@@ -60,6 +60,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 > *How do you choose the next visual novel that you will read?*
 
 I use several methods:
+
 - [vn-russian.ru list](https://vn-russian.ru/chart/?sort=-visual_novel__rate)
 - [ruvn.org list with specific filtering](https://ruvn.org/novels?sort=mixRating)
 - VK groups like [НВН](https://vk.com/visualnovel_ru), [Визуальные новеллы для Android](https://vk.com/visual_android), [Энтузиасты Team](https://vk.com/littlebustersvn), [Творческий уголок переводчиков](https://vk.com/creative_corner_vn), [Otorhin](https://vk.com/otorhin)
@@ -80,9 +81,9 @@ I only read visual novels that can be played on Android. Additionally, I prefer 
 Thank you for your interest in contributing! If you have any suggestions for the visual novels that I should read next, please feel free to submit a pull request with edits to the [Next in Line](#next-in-line) section. Please keep in mind that I only read visual novels on Android and prefer those that are translated into Russian.
 
 Use this ChatGPT query to shorten descriptions of visual novels:
-```
+
+```text
 Please summarize and rephrase this visual novel description into a short, concise sentence that does not include the words "visual novel" or the game's title. The summary should be one sentence, 35 words or less, and 175 characters or less. You may exclude names and named entities if desired.
 
 [Original vndb.org description]
 ```
-
