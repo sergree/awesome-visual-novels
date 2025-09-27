@@ -1,6 +1,6 @@
 # My Favorite Awesome Visual Novels 🍙 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of my favorite visual novels for Android and Steam Deck. This is **not** an official Awesome list, but just my visual novel recommendation chart.
+A curated list of my favorite visual novels for Android and Steam Deck. This visual novel recommendation chart represents my personal journey and discoveries in the medium over several years of reading.
 
 <!-- markdownlint-disable MD033 -->
 <img src="https://github.com/user-attachments/assets/2dc1b155-333c-4517-999d-26c367d932fc" width="50%" alt="Visual Novels Diagram">
@@ -17,7 +17,7 @@ A curated list of my favorite visual novels for Android and Steam Deck. This is 
 
 ## Why Visual Novels
 
-I'm sure you're aware of the global events that have been unfolding since 2020, which have affected everyone, including myself. It all started with endless doomscrolling through depressing news, developing various neuroses and uncontrolled aggression, eventually leading to a severe [panic disorder]. I underwent treatment at a clinic for some time, took potent drugs, and attended consultations for my mental health. Despite trying various medications, relaxation techniques, and contemporary methods from specialized literature, nothing helped me as much as visual novels did. Yes, I'm serious.
+Like many others, I was affected by the global events since 2020, which led to endless doomscrolling through depressing news, developing various neuroses and eventually a severe [panic disorder]. I underwent treatment at a clinic for some time, took potent drugs, and attended consultations for my mental health. Despite trying various medications, relaxation techniques, and contemporary methods from specialized literature, nothing helped me as much as visual novels did. Yes, I'm serious.
 
 VNs offer a truly unique experience where you can deeply connect with your character even more than in virtual reality. This is a highly personal and indescribable experience that is challenging to put into words. It's important to note that I don't view visual novels as dating sims or anything like that. Rather, I consider them a distinct art form that effectively promotes mental health and encourages innovative thinking. Moreover, top visual novel titles can make an equally strong impression as the best movies, TV series, or books. As you know, the problem of poor content is growing every year, but visual novels offer a refreshing addition to the world of entertainment.
 
@@ -88,4 +88,4 @@ I only read visual novels that can be played on Android or Steam Deck. Additiona
 
 ## Contributing
 
-Contributions are welcome, though keep in mind this is a personal collection based on my own preferences - please check the [contribution guidelines](CONTRIBUTING.md) first.
+Contributions are welcome! This is a personal collection reflecting my own reading experience and preferences - please check the [contribution guidelines](CONTRIBUTING.md) first.
