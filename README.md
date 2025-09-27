@@ -61,11 +61,19 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 
 I use several methods:
 
+- [vndb.org list sorted by rating](https://vndb.org/v?f=02b2X4T3gja&s=b4w)
+- [vndb.org list sorted by average](https://vndb.org/v?f=02b2X4T3gja&s=b5w)
 - [vn-russian.ru list](https://vn-russian.ru/chart/?sort=-visual_novel__rate)
 - [ruvn.org list with specific filtering](https://ruvn.org/novels?sort=mixRating)
-- VK groups like [НВН](https://vk.com/visualnovel_ru), [Визуальные новеллы для Android](https://vk.com/visual_android), [Энтузиасты Team](https://vk.com/littlebustersvn), [Творческий уголок переводчиков](https://vk.com/creative_corner_vn), [Otorhin](https://vk.com/otorhin)
-- [My vndb.org queries](https://query.vndb.org/queries/ae3254ea-5103-43a4-a602-f9c6f38296d1)
-- [Anivisual.net list with specific filtering](https://anivisual.net/stuff/41-1-6-0-0-4-0-0)
+- VK groups like:
+  - [НВН](https://vk.com/visualnovel_ru)
+  - [Визуальные новеллы для Android](https://vk.com/visual_android)
+  - [Энтузиасты Team](https://vk.com/littlebustersvn)
+  - [Творческий уголок переводчиков](https://vk.com/creative_corner_vn)
+  - [Otorhin](https://vk.com/otorhin)
+  - [Yasuragi](https://vk.com/yasuragivn)
+- *Deprecated* ~~[My vndb.org queries](https://query.vndb.org/queries/ae3254ea-5103-43a4-a602-f9c6f38296d1)~~
+- *Deprecated* ~~[Anivisual.net list with specific filtering](https://anivisual.net/stuff/41-1-6-0-0-4-0-0)~~
 - Tips from my friends
 
 > *Why are only visual novels for Android listed here?*
