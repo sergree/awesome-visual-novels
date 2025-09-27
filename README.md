@@ -75,8 +75,6 @@ I use several methods:
   - [Творческий уголок переводчиков](https://vk.com/creative_corner_vn)
   - [Otorhin](https://vk.com/otorhin)
   - [Yasuragi](https://vk.com/yasuragivn)
-- *Deprecated* - ~~[My vndb.org queries](https://query.vndb.org/queries/ae3254ea-5103-43a4-a602-f9c6f38296d1)~~
-- *Deprecated* = ~~[Anivisual.net list with specific filtering](https://anivisual.net/stuff/41-1-6-0-0-4-0-0)~~
 - Tips from my friends
 
 > *Why are only visual novels for Android and Steam Deck listed here?*
