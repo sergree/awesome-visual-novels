@@ -1,5 +1,7 @@
 # My Favorite Awesome Visual Novels 🍙
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 A curated list of my favorite visual novels for Android and Steam Deck. This is **not** an official Awesome list, but just my visual novel recommendation chart.
 
 <!-- markdownlint-disable MD033 -->
