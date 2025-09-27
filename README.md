@@ -2,7 +2,9 @@
 
 A curated list of my favorite visual novels for Android and Steam Deck. This is **not** an official Awesome list, but just my visual novel recommendation chart.
 
+<!-- markdownlint-disable MD033 -->
 <img src="https://github.com/user-attachments/assets/2dc1b155-333c-4517-999d-26c367d932fc" width="50%" alt="Visual Novels Diagram">
+<!-- markdownlint-enable MD033 -->
 
 > A [visual novel], often abbreviated as **VN**, is a form of digital semi-interactive fiction. Visual novels are often associated with and used in the medium of video games, but are not always labeled as such themselves. They combine a textual narrative with static or animated illustrations and a varying degree of interactivity.
 
