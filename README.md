@@ -1,6 +1,6 @@
 # My Favorite Awesome Visual Novels 🍙
 
-A curated list of my favorite visual novels for Android. This is **not** an official Awesome list, but just my visual novel recommendation chart.
+A curated list of my favorite visual novels for Android and Steam Deck. This is **not** an official Awesome list, but just my visual novel recommendation chart.
 
 ![Image](https://user-images.githubusercontent.com/43672811/221654914-50a0cf6e-46b8-4d2d-8ad0-9c23db9a6a63.png)
 
@@ -25,7 +25,7 @@ VNs offer a truly unique experience where you can deeply connect with your chara
 
 ## My Top Picks
 
-The items in the list are arranged based on the impact they had on me, from the strongest to the weakest. Please note that this selection only features visual novels that I've completed at least one ending for. It's normal if your opinions differ from mine. As I am still a beginner in this field, the list may be relatively short, but it can still take at least six months to read all of the picks presented here.
+The items in the list are arranged based on the impact they had on me, from the strongest to the weakest. Please note that this selection only features visual novels that I've completed at least one ending for. It's normal if your opinions differ from mine.
 
 1. [STEINS;GATE](https://vndb.org/v2002) - A group of friends discover a way to change the past through text messages, but their experiments spiral out of control as they become embroiled in a conspiracy involving SERN and a time traveler from a dystopian future. `15+` `In-house`
 2. [ATRI -My Dear Moments-](https://vndb.org/v27448) - A disillusioned young man, aided by a mysterious debt collector and a sentient robot girl, searches for his grandmother's lost treasure in a flooded world. `15+` `KiriKiri`
@@ -76,17 +76,17 @@ I use several methods:
 - *Deprecated* ~~[Anivisual.net list with specific filtering](https://anivisual.net/stuff/41-1-6-0-0-4-0-0)~~
 - Tips from my friends
 
-> *Why are only visual novels for Android listed here?*
+> *Why are only visual novels for Android and Steam Deck listed here?*
 
-I strongly believe that a visual novel cannot be considered awesome if it cannot be run on Android. In this day and age, Android is the most popular operating system. Older VNs should be able to run successfully using emulators, and new ones should be developed with Android support right from the start. Visual novel developers who artificially limit the range of supported platforms show a lack of respect towards their readers. Personally, I'm not comfortable reading VNs while sitting at the computer after a long day of work.
+I strongly believe that a visual novel cannot be considered awesome if it cannot be run on portable devices. In this day and age, Android and Steam Deck are the most popular portable platforms. Older VNs should be able to run successfully using emulators, and new ones should be developed with portable support right from the start. Visual novel developers who artificially limit the range of supported platforms show a lack of respect towards their readers. Personally, I'm not comfortable reading VNs while sitting at the computer after a long day of work.
 
 > *Why is my favorite visual novel not on this list yet?*
 
-I only read visual novels that can be played on Android. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
+I only read visual novels that can be played on Android or Steam Deck. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
 
 ## Contributing
 
-Thank you for your interest in contributing! If you have any suggestions for the visual novels that I should read next, please feel free to submit a pull request with edits to the [Next in Line](#next-in-line) section. Please keep in mind that I only read visual novels on Android and prefer those that are translated into Russian.
+Thank you for your interest in contributing! If you have any suggestions for the visual novels that I should read next, please feel free to submit a pull request with edits to the [Next in Line](#next-in-line) section. Please keep in mind that I only read visual novels on Android or Steam Deck and prefer those that are translated into Russian.
 
 Use this ChatGPT query to shorten descriptions of visual novels:
 
