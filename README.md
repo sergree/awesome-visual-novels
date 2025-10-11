@@ -28,6 +28,8 @@ VNs offer a truly unique experience where you can deeply connect with your chara
 
 The items in the list are arranged based on the impact they had on me, from the strongest to the weakest. Please note that this selection only features visual novels that I've completed at least one ending for. It's normal if your opinions differ from mine.
 
+⚠️ **Note for Steam Deck users:** most of the visual novels in this list require `GE-Proton` to ensure proper in-game video playback on SteamOS. Without it, you may encounter codec errors or playback issues. Please follow [this guide](https://www.reddit.com/r/SteamDeck/comments/t3n99h/how_to_install_proton_ge_on_steam_deck/) for installation instructions.
+
 1. ![Android] ![Steam Deck] [STEINS;GATE](https://vndb.org/v2002) - A group of friends discover a way to change the past through text messages, but their experiments spiral out of control as they become embroiled in a conspiracy involving SERN and a time traveler from a dystopian future. `15+` `In-house`.
 2. ![Steam Deck] 🔞 [Sakura no Uta](https://vndb.org/v562) - After losing his father, a young man finds himself entangled in emotional reunions and new beginnings as past and present collide beneath the fleeting cherry blossoms of spring. `18+` `BGI/Ethornell`. ***Note: I literally bought a Steam Deck to read this novel!***
 3. ![Android] ![Steam Deck] [The House in Fata Morgana](https://vndb.org/v12402) + [A Requiem for Innocence](https://vndb.org/v18397) - You wake up in a mansion with no memories and a jade-eyed maid offers to take you through the mansion's tragedies to help you find yourself in this multi-story game. `17+` `KiriKiri`.
@@ -77,6 +79,7 @@ I use several methods:
   - [Otorhin](https://vk.com/otorhin)
   - [Yasuragi](https://vk.com/yasuragivn)
 - Tips from my friends
+- Tips from [Claude Sonnet](https://claude.ai)
 
 > *Why are only visual novels for Android and Steam Deck listed here?*
 
@@ -85,6 +88,10 @@ I strongly believe that a visual novel cannot be considered awesome if it cannot
 > *Why is my favorite visual novel not on this list yet?*
 
 I only read visual novels that can be played on Android or Steam Deck. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
+
+> *Why do some videos from visual novels not work on a Steam Deck?*
+
+When you play visual novels on a Steam Deck, you may experience video codec errors, video skipping, or even see a "test pattern" placeholder instead of actual video playback. This issue occurs because the standard Proton version from Valve lacks certain proprietary video codecs that many visual novels rely on. Fortunately, the solution is straightforward: you need to install `GE-Proton` (a community-enhanced version of Proton) via `ProtonUp-Qt`, which is available in the `Discover` app, and then apply it to your game. For detailed installation instructions, please follow [this guide](https://www.reddit.com/r/SteamDeck/comments/t3n99h/how_to_install_proton_ge_on_steam_deck/).
 
 ## Contributing
 
