@@ -6,7 +6,7 @@ A curated list of my favorite visual novels for Android and Steam Deck. This vis
 <img src="https://github.com/user-attachments/assets/2dc1b155-333c-4517-999d-26c367d932fc" width="450" alt="Visual Novels Diagram">
 <!-- markdownlint-enable MD033 -->
 
-> A [visual novel], often abbreviated as **VN**, is a form of digital semi-interactive fiction. Visual novels are often associated with and used in the medium of video games, but are not always labeled as such themselves. They combine a textual narrative with static or animated illustrations and a varying degree of interactivity.
+> A [visual novel](https://en.wikipedia.org/wiki/Visual_novel), often abbreviated as **VN**, is a form of digital semi-interactive fiction. Visual novels are often associated with and used in the medium of video games, but are not always labeled as such themselves. They combine a textual narrative with static or animated illustrations and a varying degree of interactivity.
 
 ## Contents
 
@@ -17,12 +17,9 @@ A curated list of my favorite visual novels for Android and Steam Deck. This vis
 
 ## Why Visual Novels
 
-Like many others, I was affected by the global events since 2020, which led to endless doomscrolling through depressing news, developing various neuroses and eventually a severe [panic disorder]. I underwent treatment at a clinic for some time, took potent drugs, and attended consultations for my mental health. Despite trying various medications, relaxation techniques, and contemporary methods from specialized literature, nothing helped me as much as visual novels did. Yes, I'm serious.
+Like many others, I was affected by the global events since 2020, which led to endless doomscrolling through depressing news, developing various neuroses and eventually a severe [panic disorder](https://en.wikipedia.org/wiki/Panic_disorder). I underwent treatment at a clinic for some time, took potent drugs, and attended consultations for my mental health. Despite trying various medications, relaxation techniques, and contemporary methods from specialized literature, nothing helped me as much as visual novels did. Yes, I'm serious.
 
 VNs offer a truly unique experience where you can deeply connect with your character even more than in virtual reality. This is a highly personal and indescribable experience that is challenging to put into words. It's important to note that I don't view visual novels as dating sims or anything like that. Rather, I consider them a distinct art form that effectively promotes mental health and encourages innovative thinking. Moreover, top visual novel titles can make an equally strong impression as the best movies, TV series, or books. As you know, the problem of poor content is growing every year, but visual novels offer a refreshing addition to the world of entertainment.
-
-[visual novel]: https://en.wikipedia.org/wiki/Visual_novel
-[panic disorder]: https://en.wikipedia.org/wiki/Panic_disorder
 
 ## My Top Picks
 
@@ -46,7 +43,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 14. 🎮 [![Android]](https://play.google.com/store/apps/details?id=su.sovietgames.everlasting_summer) [![Steam Deck]](https://store.steampowered.com/app/331470/Everlasting_Summer/) [Everlasting Summer] - After fainting on a bus, Semyon awakens in a Soviet summer camp where he must participate in the daily activities of youth and meet girls, while seeking a way to return to reality. `16+` `Ren'Py`.
 15. 🎮 [![Android: Unofficial]][WILL: A Wonderful World] [![Steam Deck]](https://store.steampowered.com/app/588040/WILL_A_Wonderful_World__WILL/) [WILL: A Wonderful World] - In this story, people write their troubles on a note and pray to a god who can alter their fate, but what if the reader is the god who receives these notes? `16+` `Unity`.
 16. 🔞 [![Android: Unofficial]][Sharin no Kuni, Himawari no Shoujo] [![Steam Deck: Unofficial]][Sharin no Kuni, Himawari no Shoujo] [Sharin no Kuni, Himawari no Shoujo] - In a society where special *Duties* are imposed upon lawbreakers, a student hopes to become part of the *Special Elite* and encounters girls bound by various *Duties*, leading to a series of odd discoveries about his past and the truth behind the Land of the Spinning Wheel. `18+` `KiriKiri`.
-17. 🔞 [![Android: Unofficial]][A Summer's End — Hong Kong 1986] [![Steam Deck]](https://store.steampowered.com/app/1111370/A_Summers_End__Hong_Kong_1986/) [A Summer's End — Hong Kong 1986] - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`.
+17. 🔞 [![Android: Unofficial]][A Summer's End - Hong Kong 1986] [![Steam Deck]](https://store.steampowered.com/app/1111370/A_Summers_End__Hong_Kong_1986/) [A Summer's End - Hong Kong 1986] - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`.
 18. 🔞 [![Android]](https://play.google.com/store/apps/details?id=com.typemoon.fsn2) [![Steam Deck]](https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/) [Fate/Stay Night] - In a great ritual, seven Masters and their Servants fight to obtain the Holy Grail, which can grant any wish, but only one can win. One high school student finds himself competing and summoning his own Servant. `18+` `KiriKiri`.
 
 [STEINS;GATE]: https://vndb.org/v2002
@@ -69,7 +66,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 [Everlasting Summer]: https://vndb.org/v3126
 [WILL: A Wonderful World]: https://vndb.org/v22702
 [Sharin no Kuni, Himawari no Shoujo]: https://vndb.org/v57
-[A Summer's End — Hong Kong 1986]: https://vndb.org/v26444
+[A Summer's End - Hong Kong 1986]: https://vndb.org/v26444
 [Fate/Stay Night]: https://vndb.org/v11
 
 [When They Cry Steam]: https://store.steampowered.com/franchise/WhenTheyCry
@@ -98,8 +95,8 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 
 I use several methods:
 
-- [vndb.org list sorted by rating](https://vndb.org/v?f=02b2X4T3gja&s=b4w)
-- [vndb.org list sorted by average](https://vndb.org/v?f=02b2X4T3gja&s=b5w)
+- [vndb.org list sorted by rating]
+- [vndb.org list sorted by average]
 - [vn-russian.ru list](https://vn-russian.ru/chart/?sort=-visual_novel__rate)
 - [ruvn.org list with specific filtering](https://ruvn.org/novels?sort=mixRating)
 - VK groups like:
@@ -120,6 +117,18 @@ I strongly believe that a visual novel cannot be considered awesome if it cannot
 
 I only read visual novels that can be played on Android or Steam Deck. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
 
+> *What if a visual novel is not translated into my language or is not available in my country?*
+
+These are very common scenarios. I frequently face these issues when searching for Russian translations of visual novels. Fortunately, you can often find an **unofficial patch** for your language on [vndb.org][vndb.org list sorted by rating] - this is the go-to resource for such cases.
+
+> *How can I install an unofficial patch on Android?*
+
+Typically, you will need to download an unofficial APK file and manually transfer it to your Android device using a USB cable or wirelessly via [AirDroid](https://web.airdroid.com/). In some cases, after installing the APK, you may also need to manually copy game cache files to folders such as `android/data` or `android/obb`. The exact installation steps can vary from game to game, so be sure to follow the installation guide provided by the unofficial patch author.
+
+> *How can I install an unofficial patch on Steam Deck?*
+
+For most visual novels, you will need to install `Bottles` using the `Discover` app. Once installed, create a new "bottle" - essentially an environment where you can run your games. Then, either run the unofficial patch installer or manually copy the game files into this bottle. Finally, add your non-Steam game to the launcher and apply the `Keyboard (WASD) and Mouse` button layout to enable controller support for your visual novel. For detailed installation instructions, please follow [this guide](https://www.reddit.com/r/SteamDeck/comments/wbyilj/guide_installing_windows_gamesmodslauncher_on/).
+
 > *Why do some videos from visual novels not work on a Steam Deck?*
 
 When you play visual novels on a Steam Deck, you may experience video codec errors, video skipping, or even see a "test pattern" placeholder instead of actual video playback. This issue occurs because the standard Proton version from Valve lacks certain proprietary video codecs that many visual novels rely on. Fortunately, the solution is straightforward: you need to install `GE-Proton` (a community-enhanced version of Proton) via `ProtonUp-Qt`, which is available in the `Discover` app, and then apply it to your game. For detailed installation instructions, please follow [this guide][GE-Proton Guide].
@@ -129,7 +138,9 @@ When you play visual novels on a Steam Deck, you may experience video codec erro
 Contributions are welcome! This is a personal collection reflecting my own reading experience and preferences - please check the [contribution guidelines](CONTRIBUTING.md) first.
 
 [Android]: https://img.shields.io/badge/Android-snow?logo=android
-[Steam Deck]: https://img.shields.io/badge/Steam%20Deck-gray?logo=steam-deck
 [Android: Unofficial]: https://img.shields.io/badge/Android%3A%20Unofficial-snow?logo=android
-[Steam Deck: Unofficial]: https://img.shields.io/badge/Steam%20Deck%3A%20Unofficial-gray?logo=steam-deck
 [GE-Proton Guide]: https://www.reddit.com/r/SteamDeck/comments/t3n99h/how_to_install_proton_ge_on_steam_deck/
+[Steam Deck]: https://img.shields.io/badge/Steam%20Deck-gray?logo=steam-deck
+[Steam Deck: Unofficial]: https://img.shields.io/badge/Steam%20Deck%3A%20Unofficial-gray?logo=steam-deck
+[vndb.org list sorted by average]: https://vndb.org/v?f=02b2X4T3gja&s=b5w
+[vndb.org list sorted by rating]: https://vndb.org/v?f=02b2X4T3gja&s=b4w
