@@ -90,6 +90,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/648580/428_Shibuya_Scramble/) [428: Shibuya Scramble] - Five strangers in Shibuya uncover bizarre events with global implications, presented through live-action footage and text. `13+` `In-house`.
 - 🎮 [![Android: Unofficial]][Little Busters!] [![Steam Deck]](https://store.steampowered.com/app/635940/Little_Busters_English_Edition/) [Little Busters!] - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.product.kn.summerpockets) [![Steam Deck]](https://store.steampowered.com/app/897220/Summer_Pockets/) [Summer Pockets] - A young man escapes to a remote island to settle his grandmother's estate and meets four girls, each pursuing their own dreams and island mysteries. `15+` `Siglus`.
+- 🔞 [![Android: Unofficial]][Swan Song] [![Steam Deck: Unofficial]][Swan Song] [Swan Song] - Six survivors shelter in a church after a devastating earthquake, facing harsh conditions and humanity's extremes in a ruined city. `18+` `In-house`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai123) [![Steam Deck]](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) [Ace Attorney Trilogy] - A defense attorney exposes contradictions in witness testimony to prove clients innocent within strict three-day trial deadlines. `12+` `Unity`.
 - 🔞 [![Android: Unofficial]][Tsukihime] [![Steam Deck: Unofficial]][Tsukihime] [Tsukihime] - After an accident grants him the ability to perceive death lines on everything, a boy struggles with murderous impulses when his suppressed power resurfaces. `18+` `NScripter`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
@@ -117,6 +118,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
 [Little Busters!]: https://vndb.org/v5
 [Summer Pockets]: https://vndb.org/v20424
+[Swan Song]: https://vndb.org/v914
 [Ace Attorney Trilogy]: https://vndb.org/r60512
 [Tsukihime]: https://vndb.org/v7
 [Rewrite]: https://vndb.org/v751
