@@ -76,6 +76,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 This is a list of visual novels that I plan to read or am currently reading. Many of them have yet to be checked by me.
 
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/) [Subarashiki Hibi] - Tokyo high school students navigate mysterious events and deaths in July 2012 as apocalyptic prophecies predict the world's end on the 20th, uncovering dark truths behind the predictions. `18+` `BGI/Ethornell`.
+- 🔞 [![Android: Unofficial]][CROSS†CHANNEL] [![Steam Deck]](https://store.steampowered.com/app/812560/CROSSCHANNEL_Steam_Edition/) [CROSS†CHANNEL] - Students at an academy for the socially maladjusted return from summer vacation to discover the world has completely transformed. `18+` `VNDS`.
 - 🔞 [![Steam Deck: Unofficial]][Sakura no Toki] [Sakura no Toki] - The untold stories of artistic geniuses and why artists continue captivating people after death, exploring intersecting human thoughts and creative legacy. `18+` `Artemis`.
 - 🎮 [![Android: Unofficial]][Little Busters!] [![Steam Deck]](https://store.steampowered.com/app/635940/Little_Busters_English_Edition/) [Little Busters!] - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
@@ -84,6 +85,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 *Post a title you want to recommend to me here. It should be playable on Android or Steam Deck.*
 
 [Subarashiki Hibi]: https://vndb.org/v3144
+[CROSS†CHANNEL]: https://vndb.org/v66
 [Sakura no Toki]: https://vndb.org/v20431
 [Little Busters!]: https://vndb.org/v5
 [Tiny Bunny]: https://vndb.org/v21418
