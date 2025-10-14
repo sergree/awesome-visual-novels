@@ -97,6 +97,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai123) [![Steam Deck]](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) [Ace Attorney Trilogy] - A defense attorney exposes contradictions in witness testimony to prove clients innocent within strict three-day trial deadlines. `12+` `Unity`.
 - 🔞 [![Android: Unofficial]][Tsukihime] [![Steam Deck: Unofficial]][Tsukihime] [Tsukihime] - After an accident grants him the ability to perceive death lines on everything, a boy struggles with murderous impulses when his suppressed power resurfaces. `18+` `NScripter`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
+- 🎮 [![Android: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [![Steam Deck: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [Phenomeno - Mitsurugi Yoishi wa Kowagaranai] - A university student moves into a suspiciously cheap house that grants wishes, only to be haunted by nightly sounds and mysterious countdown numbers carved into walls. `16+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/) [ROBOTICS;NOTES] + [DaSH][ROBOTICS;NOTES DaSH] - Two students try to save their robot club by building a giant robot, but discover augmented reality files exposing a worldwide conspiracy. `12+` `In-house`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
 - 🔞 [![Steam Deck: Unofficial]][Kusarihime: Euthanasia] [Kusarihime: Euthanasia] - An amnesiac encounters a girl identical to his deceased sister while gradually recovering memories and uncovering family secrets. `18+` `codeX RScript`.
@@ -130,6 +131,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Ace Attorney Trilogy]: https://vndb.org/r60512
 [Tsukihime]: https://vndb.org/v7
 [Rewrite]: https://vndb.org/v751
+[Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
 [Tiny Bunny]: https://vndb.org/v21418
 [Kusarihime: Euthanasia]: https://vndb.org/v37
 [Doki Doki Literature Club!]: https://vndb.org/v21905
