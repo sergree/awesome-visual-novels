@@ -95,6 +95,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Android: Unofficial]][Narcissu] [![Steam Deck]](https://store.steampowered.com/app/264380/Narcissu_1st__2nd/) [Narcissu] - Two terminally ill patients reject dying in hospital and escape together in a stolen car. `12+` `NScripter`.
 - 🔞 [![Steam Deck: Unofficial]][Sayonara wo Oshiete] [Sayonara wo Oshiete] - A trainee teacher struggles with worsening anxiety and taboo desires as psychological pressure mounts in his school environment. `18+` `Siglus`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai123) [![Steam Deck]](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) [Ace Attorney Trilogy] - A defense attorney exposes contradictions in witness testimony to prove clients innocent within strict three-day trial deadlines. `12+` `Unity`.
+- 🎮 [![Android: Unofficial]][Mahoutsukai no Yoru] [![Steam Deck]](https://store.steampowered.com/app/2052410/WITCH_ON_THE_HOLY_NIGHT/) [Mahoutsukai no Yoru] - In late 1980s, an ordinary boy stumbles into an old mansion where two young mages live, beginning a strange communal life intertwined by fate. `15+` `KiriKiri`.
 - 🔞 [![Android: Unofficial]][Tsukihime] [![Steam Deck: Unofficial]][Tsukihime] [Tsukihime] - After an accident grants him the ability to perceive death lines on everything, a boy struggles with murderous impulses when his suppressed power resurfaces. `18+` `NScripter`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
 - 🎮 [![Android: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [![Steam Deck: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [Phenomeno - Mitsurugi Yoishi wa Kowagaranai] - A university student moves into a suspiciously cheap house that grants wishes, only to be haunted by nightly sounds and mysterious countdown numbers carved into walls. `16+` `In-house`.
@@ -129,6 +130,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Narcissu]: https://vndb.org/v10
 [Sayonara wo Oshiete]: https://vndb.org/v1200
 [Ace Attorney Trilogy]: https://vndb.org/r60512
+[Mahoutsukai no Yoru]: https://vndb.org/v777
 [Tsukihime]: https://vndb.org/v7
 [Rewrite]: https://vndb.org/v751
 [Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
