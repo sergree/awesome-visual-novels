@@ -83,6 +83,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🔞 [![Steam Deck: Unofficial]][Soukou Akki Muramasa] [Soukou Akki Muramasa] - A warrior bound by duty wields cursed armor that demands innocent blood for its power, forcing him to slay both evil and good without claiming righteousness. `18+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/438130/Root_Double_Before_Crime__After_Days_Xtend_Edition/) [Root Double] - Nine souls trapped in a research facility basement must escape while solving a bizarre murder through two different perspectives and timelines. `16+` `In-house`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.ancr.muvluva) [![Steam Deck]](https://store.steampowered.com/curator/45156101) [Muv Luv] + [Alternative][Muv Luv Alternative] - A student's ordinary school life is disrupted by a mysterious wealthy girl moving in, then he later awakens to find his town in ruins. `17+` `rUGP`.
+- 🎮 [![Steam Deck]](https://store.steampowered.com/app/644540/Dies_irae_Amantes_amentes/) [Dies Irae] - After losing his best friend, a student faces supernatural abnormalities threatening his city, remnants of a WWII ritual, as he fights to reclaim normalcy. `15+` `Malie`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaos) [![Steam Deck]](https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/) [CHAOS;HEAD NOAH] - A reclusive otaku is dragged into bizarre serial killings in Shibuya, where the power to make delusions real comes into play. `17+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/825630/STEINSGATE_0/) [STEINS;GATE 0] - After abandoning his efforts to save someone dear, a traumatized student encounters an AI containing her memories, pulling him back into dangerous conspiracies. `15+` `In-house`.
 - 🎮 [![Android: Unofficial]][Little Busters!] [![Steam Deck]](https://store.steampowered.com/app/635940/Little_Busters_English_Edition/) [Little Busters!] - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`.
@@ -103,6 +104,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Root Double]: https://vndb.org/v5000
 [Muv Luv]: https://vndb.org/v93
 [Muv Luv Alternative]: https://vndb.org/v92
+[Dies Irae]: https://vndb.org/v548
 [CHAOS;HEAD NOAH]: https://vndb.org/v22505
 [STEINS;GATE 0]: https://vndb.org/v17102
 [ROBOTICS;NOTES]: https://vndb.org/v5883
