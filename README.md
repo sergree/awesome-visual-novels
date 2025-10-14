@@ -80,6 +80,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🔞 [![Steam Deck: Unofficial]][Sakura no Toki] [Sakura no Toki] - The untold stories of artistic geniuses and why artists continue captivating people after death, exploring intersecting human thoughts and creative legacy. `18+` `Artemis`.
 - 🔞 [![Steam Deck: Unofficial]][White Album 2] [White Album 2] - Music brings three people together in autumn, creating deep bonds, but a forbidden love that came too late is hidden by winter and revealed in spring. `18+` `In-house`. ***Note: You can start with White Album 2 without playing White Album 1 - you won't miss anything.***
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaoschild_jp) [![Steam Deck]](https://store.steampowered.com/app/970570/CHAOSCHILD/) [CHAOS;CHILD] - Six years after a devastating earthquake, murders return to Shibuya as people with the power to make their delusions reality begin to awaken. `17+` `In-house`.
+- 🎮 [![Steam Deck]](https://store.steampowered.com/app/857450/ISLAND/) [ISLAND] - A time traveler arrives on a secluded island plagued by disease and dark legends, seeking to change its doomed future alongside three girls from once-powerful families. `15+` `CatSystem2`.
 - 🔞 [![Steam Deck: Unofficial]][Soukou Akki Muramasa] [Soukou Akki Muramasa] - A warrior bound by duty wields cursed armor that demands innocent blood for its power, forcing him to slay both evil and good without claiming righteousness. `18+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/438130/Root_Double_Before_Crime__After_Days_Xtend_Edition/) [Root Double] - Nine souls trapped in a research facility basement must escape while solving a bizarre murder through two different perspectives and timelines. `16+` `In-house`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.ancr.muvluva) [![Steam Deck]](https://store.steampowered.com/curator/45156101) [Muv Luv] + [Alternative][Muv Luv Alternative] - A student's ordinary school life is disrupted by a mysterious wealthy girl moving in, then he later awakens to find his town in ruins. `17+` `rUGP`.
@@ -113,6 +114,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Sakura no Toki]: https://vndb.org/v20431
 [White Album 2]: https://vndb.org/v7771
 [CHAOS;CHILD]: https://vndb.org/v14018
+[ISLAND]: https://vndb.org/v18498
 [Soukou Akki Muramasa]: https://vndb.org/v2016
 [Root Double]: https://vndb.org/v5000
 [Muv Luv]: https://vndb.org/v93
