@@ -86,6 +86,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/644540/Dies_irae_Amantes_amentes/) [Dies Irae] - After losing his best friend, a student faces supernatural abnormalities threatening his city, remnants of a WWII ritual, as he fights to reclaim normalcy. `15+` `Malie`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaos) [![Steam Deck]](https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/) [CHAOS;HEAD NOAH] - A reclusive otaku is dragged into bizarre serial killings in Shibuya, where the power to make delusions real comes into play. `17+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/825630/STEINSGATE_0/) [STEINS;GATE 0] - After abandoning his efforts to save someone dear, a traumatized student encounters an AI containing her memories, pulling him back into dangerous conspiracies. `15+` `In-house`.
+- 🎮 [![Steam Deck: Unofficial]][Remember 11: The Age of Infinity] [Remember 11: The Age of Infinity] - After a plane crash and an attempted murder, two strangers trapped by snowstorms discover they're swapping bodies while a mysterious figure appears in both locations. `15+` `In-house`.
 - 🎮 [![Android: Unofficial]][Little Busters!] [![Steam Deck]](https://store.steampowered.com/app/635940/Little_Busters_English_Edition/) [Little Busters!] - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.product.kn.summerpockets) [![Steam Deck]](https://store.steampowered.com/app/897220/Summer_Pockets/) [Summer Pockets] - A young man escapes to a remote island to settle his grandmother's estate and meets four girls, each pursuing their own dreams and island mysteries. `15+` `Siglus`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
@@ -107,6 +108,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Dies Irae]: https://vndb.org/v548
 [CHAOS;HEAD NOAH]: https://vndb.org/v22505
 [STEINS;GATE 0]: https://vndb.org/v17102
+[Remember 11: The Age of Infinity]: https://vndb.org/v13
 [ROBOTICS;NOTES]: https://vndb.org/v5883
 [ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
 [Little Busters!]: https://vndb.org/v5
