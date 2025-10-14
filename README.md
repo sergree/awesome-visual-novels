@@ -73,7 +73,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 
 ## Next in Line
 
-This is a list of visual novels that I plan to read or am currently reading. Many of them have yet to be checked by me.
+This is a list of visual novels that I plan to read or am currently reading. Many of them have yet to be checked by me. The list is ordered by reading priority.
 
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/) [Subarashiki Hibi] - Tokyo high school students navigate mysterious events and deaths in July 2012 as apocalyptic prophecies predict the world's end on the 20th, uncovering dark truths behind the predictions. `18+` `BGI/Ethornell`.
 - 🔞 [![Android: Unofficial]][CROSS†CHANNEL] [![Steam Deck]](https://store.steampowered.com/app/812560/CROSSCHANNEL_Steam_Edition/) [CROSS†CHANNEL] - Students at an academy for the socially maladjusted return from summer vacation to discover the world has completely transformed. `18+` `VNDS`.
