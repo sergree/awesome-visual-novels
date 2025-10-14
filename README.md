@@ -87,8 +87,10 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaos) [![Steam Deck]](https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/) [CHAOS;HEAD NOAH] - A reclusive otaku is dragged into bizarre serial killings in Shibuya, where the power to make delusions real comes into play. `17+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/825630/STEINSGATE_0/) [STEINS;GATE 0] - After abandoning his efforts to save someone dear, a traumatized student encounters an AI containing her memories, pulling him back into dangerous conspiracies. `15+` `In-house`.
 - 🎮 [![Steam Deck: Unofficial]][Remember 11: The Age of Infinity] [Remember 11: The Age of Infinity] - After a plane crash and an attempted murder, two strangers trapped by snowstorms discover they're swapping bodies while a mysterious figure appears in both locations. `15+` `In-house`.
+- 🎮 [![Steam Deck]](https://store.steampowered.com/app/648580/428_Shibuya_Scramble/) [428: Shibuya Scramble] - Five strangers in Shibuya uncover bizarre events with global implications, presented through live-action footage and text. `13+` `In-house`.
 - 🎮 [![Android: Unofficial]][Little Busters!] [![Steam Deck]](https://store.steampowered.com/app/635940/Little_Busters_English_Edition/) [Little Busters!] - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.product.kn.summerpockets) [![Steam Deck]](https://store.steampowered.com/app/897220/Summer_Pockets/) [Summer Pockets] - A young man escapes to a remote island to settle his grandmother's estate and meets four girls, each pursuing their own dreams and island mysteries. `15+` `Siglus`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai123) [![Steam Deck]](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) [Ace Attorney Trilogy] - A defense attorney exposes contradictions in witness testimony to prove clients innocent within strict three-day trial deadlines. `12+` `Unity`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/) [ROBOTICS;NOTES] + [DaSH][ROBOTICS;NOTES DaSH] - Two students try to save their robot club by building a giant robot, but discover augmented reality files exposing a worldwide conspiracy. `12+` `In-house`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
@@ -109,10 +111,12 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [CHAOS;HEAD NOAH]: https://vndb.org/v22505
 [STEINS;GATE 0]: https://vndb.org/v17102
 [Remember 11: The Age of Infinity]: https://vndb.org/v13
+[428: Shibuya Scramble]: https://vndb.org/v1299
 [ROBOTICS;NOTES]: https://vndb.org/v5883
 [ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
 [Little Busters!]: https://vndb.org/v5
 [Summer Pockets]: https://vndb.org/v20424
+[Ace Attorney Trilogy]: https://vndb.org/r60512
 [Rewrite]: https://vndb.org/v751
 [Tiny Bunny]: https://vndb.org/v21418
 [Guilty Parade]: https://vndb.org/v25612
