@@ -78,6 +78,8 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/) [Subarashiki Hibi] - Tokyo high school students navigate mysterious events and deaths in July 2012 as apocalyptic prophecies predict the world's end on the 20th, uncovering dark truths behind the predictions. `18+` `BGI/Ethornell`.
 - 🔞 [![Android: Unofficial]][CROSS†CHANNEL] [![Steam Deck]](https://store.steampowered.com/app/812560/CROSSCHANNEL_Steam_Edition/) [CROSS†CHANNEL] - Students at an academy for the socially maladjusted return from summer vacation to discover the world has completely transformed. `18+` `VNDS`.
 - 🔞 [![Steam Deck: Unofficial]][Sakura no Toki] [Sakura no Toki] - The untold stories of artistic geniuses and why artists continue captivating people after death, exploring intersecting human thoughts and creative legacy. `18+` `Artemis`.
+- 🎮 [![Steam Deck]](https://store.steampowered.com/app/438130/Root_Double_Before_Crime__After_Days_Xtend_Edition/) [Root Double] - Nine souls trapped in a research facility basement must escape while solving a bizarre murder through two different perspectives and timelines. `16+` `In-house`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.ancr.muvluva) [![Steam Deck]](https://store.steampowered.com/curator/45156101) [Muv Luv] + [Alternative][Muv Luv Alternative] - A student's ordinary school life is disrupted by a mysterious wealthy girl moving in, then he later awakens to find his town in ruins. `17+` `rUGP`.
 - 🎮 [![Android: Unofficial]][Little Busters!] [![Steam Deck]](https://store.steampowered.com/app/635940/Little_Busters_English_Edition/) [Little Busters!] - After losing his parents, a depressed boy finds hope and happiness with a group of four children who play with him and help him overcome his grief. `12+` `RealLive`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.nozorigames.guiltyparade) [![Steam Deck]](https://store.steampowered.com/app/1167170/Guilty_Parade/) [Guilty Parade] **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`.
@@ -87,6 +89,9 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Subarashiki Hibi]: https://vndb.org/v3144
 [CROSS†CHANNEL]: https://vndb.org/v66
 [Sakura no Toki]: https://vndb.org/v20431
+[Root Double]: https://vndb.org/v5000
+[Muv Luv]: https://vndb.org/v93
+[Muv Luv Alternative]: https://vndb.org/v92
 [Little Busters!]: https://vndb.org/v5
 [Tiny Bunny]: https://vndb.org/v21418
 [Guilty Parade]: https://vndb.org/v25612
