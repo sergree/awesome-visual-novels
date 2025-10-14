@@ -99,10 +99,10 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🔞 [![Android: Unofficial]][Tsukihime] [![Steam Deck: Unofficial]][Tsukihime] [Tsukihime] - After an accident grants him the ability to perceive death lines on everything, a boy struggles with murderous impulses when his suppressed power resurfaces. `18+` `NScripter`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/741140/Baldr_Sky/) [BALDR SKY Dive1] + [Dive2][BALDR SKY Dive2] - An amnesiac awakens in virtual battle simulations, discovering he's investigating a mysterious case called Gray Christmas while trying to recover his lost memories in a ruined city. `18+` `NeXAS`.
+- 🔞 [![Steam Deck]](https://store.steampowered.com/app/315810/eden/) [eden*] - After completing humanity's century-long evacuation from doomed Earth, a genetically engineered superhuman meets her military guardian on the abandoned planet for a final love story. `18+` `Musica`.
 - 🎮 [![Android: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [![Steam Deck: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [Phenomeno - Mitsurugi Yoishi wa Kowagaranai] - A university student moves into a suspiciously cheap house that grants wishes, only to be haunted by nightly sounds and mysterious countdown numbers carved into walls. `16+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/) [ROBOTICS;NOTES] + [DaSH][ROBOTICS;NOTES DaSH] - Two students try to save their robot club by building a giant robot, but discover augmented reality files exposing a worldwide conspiracy. `12+` `In-house`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
-- 🔞 [![Steam Deck: Unofficial]][Kusarihime: Euthanasia] [Kusarihime: Euthanasia] - An amnesiac encounters a girl identical to his deceased sister while gradually recovering memories and uncovering family secrets. `18+` `codeX RScript`.
 - 🎮 [![Android: Unofficial]][Doki Doki Literature Club!] [![Steam Deck]](https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/) [Doki Doki Literature Club!] - Join a literature club with four unique girls and spend time writing poetry together. `17+` `Unity`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.nozorigames.guiltyparade) [![Steam Deck]](https://store.steampowered.com/app/1167170/Guilty_Parade/) [Guilty Parade] **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`.
 
@@ -136,9 +136,9 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Rewrite]: https://vndb.org/v751
 [BALDR SKY Dive1]: https://vndb.org/v1306
 [BALDR SKY Dive2]: https://vndb.org/v1913
+[eden*]: https://vndb.org/v1286
 [Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
 [Tiny Bunny]: https://vndb.org/v21418
-[Kusarihime: Euthanasia]: https://vndb.org/v37
 [Doki Doki Literature Club!]: https://vndb.org/v21905
 [Guilty Parade]: https://vndb.org/v25612
 
