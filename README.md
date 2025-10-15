@@ -1,6 +1,6 @@
 # My Favorite Awesome Visual Novels 🍙 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-A curated list of my favorite visual novels for Android and Steam Deck. This visual novel recommendation chart represents my personal journey and discoveries in the medium over several years of reading.
+A curated list of my favorite visual novels for Android and Steam Deck. This kamige recommendation chart and VN discovery guide represents my personal journey through the best visual novels for handheld devices over several years of reading on portable platforms.
 
 <!-- markdownlint-disable MD033 -->
 <img src="https://github.com/user-attachments/assets/2dc1b155-333c-4517-999d-26c367d932fc" width="450" alt="Visual Novels Diagram">
@@ -19,7 +19,7 @@ A curated list of my favorite visual novels for Android and Steam Deck. This vis
 
 Like many others, I was affected by the global events since 2020, which led to endless doomscrolling through depressing news, developing various neuroses and eventually a severe [panic disorder](https://en.wikipedia.org/wiki/Panic_disorder). I underwent treatment at a clinic for some time, took potent drugs, and attended consultations for my mental health. Despite trying various medications, relaxation techniques, and contemporary methods from specialized literature, nothing helped me as much as visual novels did. Yes, I'm serious.
 
-VNs offer a truly unique experience where you can deeply connect with your character even more than in virtual reality. This is a highly personal and indescribable experience that is challenging to put into words. It's important to note that I don't view visual novels as dating sims or anything like that. Rather, I consider them a distinct art form that effectively promotes mental health and encourages innovative thinking. Moreover, top visual novel titles can make an equally strong impression as the best movies, TV series, or books. As you know, the problem of poor content is growing every year, but visual novels offer a refreshing addition to the world of entertainment.
+VNs offer a truly unique experience where you can deeply connect with your character even more than in virtual reality. This is a highly personal and indescribable experience that is challenging to put into words. It's important to note that I don't view visual novels as dating sims or anything like that. Rather, I consider them a distinct art form that effectively promotes mental health and encourages innovative thinking. Moreover, top-tier kamige titles and emotional nakige can make an equally strong impression as the best movies, TV series, or books. As you know, the problem of poor content is growing every year, but visual novels offer a refreshing addition to the world of entertainment. The ability to experience these stories on portable devices like Android phones, tablets, and Steam Deck makes them perfect companions for daily commutes and relaxation.
 
 ## My Top Picks
 
@@ -166,11 +166,11 @@ I use several methods:
 
 > *Why are only visual novels for Android and Steam Deck listed here?*
 
-I strongly believe that a visual novel cannot be considered awesome if it cannot be run on portable devices. In this day and age, Android and Steam Deck are the most popular portable platforms. Older VNs should be able to run successfully using emulators, and new ones should be developed with portable support right from the start. Visual novel developers who artificially limit the range of supported platforms show a lack of respect towards their readers. Personally, I'm not comfortable reading VNs while sitting at my computer after a long day of work.
+I strongly believe that a visual novel cannot be considered awesome if it cannot be run on portable handheld devices. In this day and age, Android smartphones/tablets and Steam Deck are the most popular portable gaming platforms for VN readers. Older VNs should be able to run successfully using emulators, and new ones should be developed with mobile and handheld support right from the start. Visual novel developers who artificially limit the range of supported platforms show a lack of respect towards their readers. Personally, I'm not comfortable reading VNs while sitting at my computer after a long day of work - portable devices offer the perfect reading experience.
 
 > *Why is my favorite visual novel not on this list yet?*
 
-I only read visual novels that can be played on Android or Steam Deck. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
+I only read visual novels that can be played on Android or Steam Deck handheld devices. Additionally, I prefer to read works in my native language, Russian. I have also come across titles that I cannot recommend for various reasons, and therefore, have not included them in my list.
 
 > *What if a visual novel is not translated into my language or is not available in my country?*
 
