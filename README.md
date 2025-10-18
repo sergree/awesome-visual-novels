@@ -94,6 +94,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Android: Unofficial]][Narcissu] [![Steam Deck]](https://store.steampowered.com/app/264380/Narcissu_1st__2nd/) [Narcissu] - Two terminally ill patients reject dying in hospital and escape together in a stolen car. `12+` `NScripter`.
 - 🔞 [![Steam Deck: Unofficial]][Sayonara wo Oshiete] [Sayonara wo Oshiete] - A trainee teacher struggles with worsening anxiety and taboo desires as psychological pressure mounts in his school environment. `18+` `Siglus`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=kemco.ragingloop) [![Steam Deck]](https://store.steampowered.com/app/648100/Raging_Loop/) [Raging Loop] - A grad student trapped in a remote village must survive a deadly ritual where wolf spirits disguised as villagers kill each night, reliving events in a time loop. `16+` `Unity`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.paranoma) [![Steam Deck]](https://store.steampowered.com/app/2106840/PARANORMASIGHT_The_Seven_Mysteries_of_Honjo/) [PARANORMASIGHT: The Seven Mysteries of Honjo] - An office worker investigates local ghost stories with friends while detectives, a student, and a grieving mother separately pursue connected mysteries involving strange deaths and supernatural curses. `17+` `Unity`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai123) [![Steam Deck]](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) [Ace Attorney Trilogy] - A defense attorney exposes contradictions in witness testimony to prove clients innocent within strict three-day trial deadlines. `12+` `Unity`.
 - 🎮 [![Android: Unofficial]][Mahoutsukai no Yoru] [![Steam Deck]](https://store.steampowered.com/app/2052410/WITCH_ON_THE_HOLY_NIGHT/) [Mahoutsukai no Yoru] - In late 1980s, an ordinary boy stumbles into an old mansion where two young mages live, beginning a strange communal life intertwined by fate. `15+` `KiriKiri`.
 - 🔞 [![Android: Unofficial]][Tsukihime] [![Steam Deck: Unofficial]][Tsukihime] [Tsukihime] - After an accident grants him the ability to perceive death lines on everything, a boy struggles with murderous impulses when his suppressed power resurfaces. `18+` `NScripter`.
@@ -132,6 +133,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Narcissu]: https://vndb.org/v10
 [Sayonara wo Oshiete]: https://vndb.org/v1200
 [Raging Loop]: https://vndb.org/v21289
+[PARANORMASIGHT: The Seven Mysteries of Honjo]: https://vndb.org/v42561
 [Ace Attorney Trilogy]: https://vndb.org/r60512
 [Mahoutsukai no Yoru]: https://vndb.org/v777
 [Tsukihime]: https://vndb.org/v7
