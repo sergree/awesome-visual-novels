@@ -96,6 +96,9 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=kemco.ragingloop) [![Steam Deck]](https://store.steampowered.com/app/648100/Raging_Loop/) [Raging Loop] - A grad student trapped in a remote village must survive a deadly ritual where wolf spirits disguised as villagers kill each night, reliving events in a time loop. `16+` `Unity`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.square_enix.android_googleplay.paranoma) [![Steam Deck]](https://store.steampowered.com/app/2106840/PARANORMASIGHT_The_Seven_Mysteries_of_Honjo/) [PARANORMASIGHT: The Seven Mysteries of Honjo] - An office worker investigates local ghost stories with friends while detectives, a student, and a grieving mother separately pursue connected mysteries involving strange deaths and supernatural curses. `17+` `Unity`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.capcom.gyakusai123) [![Steam Deck]](https://store.steampowered.com/app/787480/Phoenix_Wright_Ace_Attorney_Trilogy/) [Ace Attorney Trilogy] - A defense attorney exposes contradictions in witness testimony to prove clients innocent within strict three-day trial deadlines. `12+` `Unity`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.pixelfade.aceacademy) [![Steam Deck]](https://store.steampowered.com/app/396650/ACE_Academy/) [ACE Academy] - A transfer student struggles to find a team at a prestigious robotics academy, competing in mech tournaments with his outdated robot. `12+` `Ren'Py`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.PixelFade.Crystalline) [![Steam Deck]](https://store.steampowered.com/app/616250/Crystalline/) [Crystalline] - A man transported to a fantasy world radiates magical energy, leading a Mage-Knight to help him uncover the mysterious purpose behind his arrival. `12+` `Unity`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.PixelFade.EtherealEnigma) [![Steam Deck]](https://store.steampowered.com/app/1069760/Ethereal_Enigma/) [Ethereal Enigma] - A student accidentally summons a princess from another world and must keep her secret while searching for the mysterious woman who can send her home. `12+` `Unity`.
 - 🎮 [![Android: Unofficial]][Mahoutsukai no Yoru] [![Steam Deck]](https://store.steampowered.com/app/2052410/WITCH_ON_THE_HOLY_NIGHT/) [Mahoutsukai no Yoru] - In late 1980s, an ordinary boy stumbles into an old mansion where two young mages live, beginning a strange communal life intertwined by fate. `15+` `KiriKiri`.
 - 🔞 [![Android: Unofficial]][Tsukihime] [![Steam Deck: Unofficial]][Tsukihime] [Tsukihime] - After an accident grants him the ability to perceive death lines on everything, a boy struggles with murderous impulses when his suppressed power resurfaces. `18+` `NScripter`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
@@ -135,6 +138,9 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [Raging Loop]: https://vndb.org/v21289
 [PARANORMASIGHT: The Seven Mysteries of Honjo]: https://vndb.org/v42561
 [Ace Attorney Trilogy]: https://vndb.org/r60512
+[ACE Academy]: https://vndb.org/v13948
+[Crystalline]: https://vndb.org/v19989
+[Ethereal Enigma]: https://vndb.org/v26010
 [Mahoutsukai no Yoru]: https://vndb.org/v777
 [Tsukihime]: https://vndb.org/v7
 [Rewrite]: https://vndb.org/v751
