@@ -106,6 +106,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/315810/eden/) [eden*] - After completing humanity's century-long evacuation from doomed Earth, a genetically engineered superhuman meets her military guardian on the abandoned planet for a final love story. `18+` `Musica`.
 - 🎮 [![Android: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [![Steam Deck: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [Phenomeno - Mitsurugi Yoishi wa Kowagaranai] - A university student moves into a suspiciously cheap house that grants wishes, only to be haunted by nightly sounds and mysterious countdown numbers carved into walls. `16+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/) [ROBOTICS;NOTES] + [DaSH][ROBOTICS;NOTES DaSH] - Two students try to save their robot club by building a giant robot, but discover augmented reality files exposing a worldwide conspiracy. `12+` `In-house`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.yuzusoft.sour.parquet) [![Steam Deck]](https://store.steampowered.com/app/1662840/PARQUET/) [PARQUET] - Created from thousands of memories, he questions his identity and finds companionship with two girls who share his experimental origins. `12+` `KiriKiri`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
 - 🎮 [![Android: Unofficial]][Doki Doki Literature Club!] [![Steam Deck]](https://store.steampowered.com/app/1388880/Doki_Doki_Literature_Club_Plus/) [Doki Doki Literature Club!] - Join a literature club with four unique girls and spend time writing poetry together. `17+` `Unity`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.nozorigames.guiltyparade) [![Steam Deck]](https://store.steampowered.com/app/1167170/Guilty_Parade/) [Guilty Parade] **INCOMPLETE** - After waking up without memories and surrounded by hostile soldiers, the male protagonist must investigate a crime to earn the Commander's help, but the mysteries he uncovers may put him at odds with his new elite squad. `16+` `Ren'Py`.
@@ -127,8 +128,6 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [STEINS;GATE 0]: https://vndb.org/v17102
 [Remember 11: The Age of Infinity]: https://vndb.org/v13
 [428: Shibuya Scramble]: https://vndb.org/v1299
-[ROBOTICS;NOTES]: https://vndb.org/v5883
-[ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
 [Planetarian]: https://vndb.org/v34
 [Little Busters!]: https://vndb.org/v5
 [Summer Pockets]: https://vndb.org/v20424
@@ -148,6 +147,9 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [BALDR SKY Dive2]: https://vndb.org/v1913
 [eden*]: https://vndb.org/v1286
 [Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
+[ROBOTICS;NOTES]: https://vndb.org/v5883
+[ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
+[PARQUET]: https://vndb.org/v31807
 [Tiny Bunny]: https://vndb.org/v21418
 [Doki Doki Literature Club!]: https://vndb.org/v21905
 [Guilty Parade]: https://vndb.org/v25612
