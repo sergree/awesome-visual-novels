@@ -42,8 +42,9 @@ The items in the list are arranged based on the impact they had on me, from the 
 15. 🎮 [![Android]](https://play.google.com/store/apps/details?id=su.sovietgames.everlasting_summer) [![Steam Deck]](https://store.steampowered.com/app/331470/Everlasting_Summer/) [Everlasting Summer] - After fainting on a bus, Semyon awakens in a Soviet summer camp where he must participate in the daily activities of youth and meet girls, while seeking a way to return to reality. `16+` `Ren'Py`.
 16. 🎮 [![Android: Unofficial]][WILL: A Wonderful World] [![Steam Deck]](https://store.steampowered.com/app/588040/WILL_A_Wonderful_World__WILL/) [WILL: A Wonderful World] - In this story, people write their troubles on a note and pray to a god who can alter their fate, but what if the reader is the god who receives these notes? `16+` `Unity`.
 17. 🔞 [![Android: Unofficial]][Sharin no Kuni, Himawari no Shoujo] [![Steam Deck: Unofficial]][Sharin no Kuni, Himawari no Shoujo] [Sharin no Kuni, Himawari no Shoujo] - In a society where special *Duties* are imposed upon lawbreakers, a student hopes to become part of the *Special Elite* and encounters girls bound by various *Duties*, leading to a series of odd discoveries about his past and the truth behind the Land of the Spinning Wheel. `18+` `KiriKiri`.
-18. 🔞 [![Android: Unofficial]][A Summer's End - Hong Kong 1986] [![Steam Deck]](https://store.steampowered.com/app/1111370/A_Summers_End__Hong_Kong_1986/) [A Summer's End - Hong Kong 1986] - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`.
-19. 🔞 [![Android]](https://play.google.com/store/apps/details?id=com.typemoon.fsn2) [![Steam Deck]](https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/) [Fate/Stay Night] - In a great ritual, seven Masters and their Servants fight to obtain the Holy Grail, which can grant any wish, but only one can win. One high school student finds himself competing and summoning his own Servant. `18+` `KiriKiri`.
+18. 🎮 [![Android: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [![Steam Deck: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [Phenomeno - Mitsurugi Yoishi wa Kowagaranai] - A university student moves into a suspiciously cheap house that grants wishes, only to be haunted by nightly sounds and mysterious countdown numbers carved into walls. `16+` `VNDS`.
+19. 🔞 [![Android: Unofficial]][A Summer's End - Hong Kong 1986] [![Steam Deck]](https://store.steampowered.com/app/1111370/A_Summers_End__Hong_Kong_1986/) [A Summer's End - Hong Kong 1986] - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`.
+20. 🔞 [![Android]](https://play.google.com/store/apps/details?id=com.typemoon.fsn2) [![Steam Deck]](https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/) [Fate/Stay Night] - In a great ritual, seven Masters and their Servants fight to obtain the Holy Grail, which can grant any wish, but only one can win. One high school student finds himself competing and summoning his own Servant. `18+` `KiriKiri`.
 
 [STEINS;GATE]: https://vndb.org/v2002
 [Sakura no Uta]: https://vndb.org/v562
@@ -66,6 +67,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 [Everlasting Summer]: https://vndb.org/v3126
 [WILL: A Wonderful World]: https://vndb.org/v22702
 [Sharin no Kuni, Himawari no Shoujo]: https://vndb.org/v57
+[Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
 [A Summer's End - Hong Kong 1986]: https://vndb.org/v26444
 [Fate/Stay Night]: https://vndb.org/v11
 
@@ -105,7 +107,6 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1680000/Rewrite/) [Rewrite] - A high school student with the ability to rewrite his body investigates supernatural mysteries with five girls in a tree-filled city. `15+` `Siglus`.
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/741140/Baldr_Sky/) [BALDR SKY Dive1] + [Dive2][BALDR SKY Dive2] - An amnesiac awakens in virtual battle simulations, discovering he's investigating a mysterious case called Gray Christmas while trying to recover his lost memories in a ruined city. `18+` `NeXAS`.
 - 🔞 [![Steam Deck]](https://store.steampowered.com/app/315810/eden/) [eden*] - After completing humanity's century-long evacuation from doomed Earth, a genetically engineered superhuman meets her military guardian on the abandoned planet for a final love story. `18+` `Musica`.
-- 🎮 [![Android: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [![Steam Deck: Unofficial]][Phenomeno - Mitsurugi Yoishi wa Kowagaranai] [Phenomeno - Mitsurugi Yoishi wa Kowagaranai] - A university student moves into a suspiciously cheap house that grants wishes, only to be haunted by nightly sounds and mysterious countdown numbers carved into walls. `16+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/1111380/ROBOTICSNOTES_ELITE/) [ROBOTICS;NOTES] + [DaSH][ROBOTICS;NOTES DaSH] - Two students try to save their robot club by building a giant robot, but discover augmented reality files exposing a worldwide conspiracy. `12+` `In-house`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.yuzusoft.sour.parquet) [![Steam Deck]](https://store.steampowered.com/app/1662840/PARQUET/) [PARQUET] - Created from thousands of memories, he questions his identity and finds companionship with two girls who share his experimental origins. `12+` `KiriKiri`.
 - 🔞 [![Android: Unofficial]][Tiny Bunny] [![Steam Deck]](https://store.steampowered.com/app/1421250/Tiny_Bunny/) [Tiny Bunny] **INCOMPLETE** - In a Siberian forest, Anton faces terrifying events and is forced to make a choice to stay alive or stay human as he tries to survive and find answers to the mysterious disappearance of children in his new village. `18+` `Ren'Py`.
@@ -146,7 +147,6 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [BALDR SKY Dive1]: https://vndb.org/v1306
 [BALDR SKY Dive2]: https://vndb.org/v1913
 [eden*]: https://vndb.org/v1286
-[Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
 [ROBOTICS;NOTES]: https://vndb.org/v5883
 [ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
 [PARQUET]: https://vndb.org/v31807
