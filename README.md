@@ -47,32 +47,32 @@ The items in the list are arranged based on the impact they had on me, from the 
 20. 🔞 [![Android: Unofficial]][A Summer's End - Hong Kong 1986] [![Steam Deck]](https://store.steampowered.com/app/1111370/A_Summers_End__Hong_Kong_1986/) [A Summer's End - Hong Kong 1986] - In this modern romance set in Hong Kong during the 1980s, a young professional woman is torn between traditional values and a newfound attraction to a free-spirited entrepreneur. `18+` `Ren'Py`.
 21. 🔞 [![Android]](https://play.google.com/store/apps/details?id=com.typemoon.fsn2) [![Steam Deck]](https://store.steampowered.com/app/2396980/Fatestay_night_REMASTERED/) [Fate/Stay Night] - In a great ritual, seven Masters and their Servants fight to obtain the Holy Grail, which can grant any wish, but only one can win. One high school student finds himself competing and summoning his own Servant. `18+` `KiriKiri`.
 
-[STEINS;GATE]: https://vndb.org/v2002
-[Sakura no Uta]: https://vndb.org/v562
-[The House in Fata Morgana]: https://vndb.org/v12402
-[A Requiem for Innocence]: https://vndb.org/v18397
-[Subarashiki Hibi]: https://vndb.org/v3144
-[ATRI -My Dear Moments-]: https://vndb.org/v27448
-[Kimi to Kanojo to Kanojo no Koi]: https://vndb.org/v7738
-[Love, Money, Rock'n'Roll]: https://vndb.org/v18809
-[Ever 17: The Out of Infinity]: https://vndb.org/v17
-[Higurashi no Naku Koro ni]: https://vndb.org/v67
-[Higurashi no Naku Koro ni Kai]: https://vndb.org/v68
-[Higurashi no Naku Koro ni Rei]: https://vndb.org/v69
-[Umineko no Naku Koro ni]: https://vndb.org/v24
-[Umineko no Naku Koro ni Chiru]: https://vndb.org/v2153
-[CLANNAD]: https://vndb.org/v4
-[GINKA]: https://vndb.org/v38430
-[Stella of The End]: https://vndb.org/v29443
-[Katawa Shoujo]: https://vndb.org/v945
-[Everlasting Summer]: https://vndb.org/v3126
-[WILL: A Wonderful World]: https://vndb.org/v22702
-[Sharin no Kuni, Himawari no Shoujo]: https://vndb.org/v57
-[Phenomeno - Mitsurugi Yoishi wa Kowagaranai]: https://vndb.org/v10526
-[A Summer's End - Hong Kong 1986]: https://vndb.org/v26444
-[Fate/Stay Night]: https://vndb.org/v11
+[steins;gate]: https://vndb.org/v2002
+[sakura no uta]: https://vndb.org/v562
+[the house in fata morgana]: https://vndb.org/v12402
+[a requiem for innocence]: https://vndb.org/v18397
+[subarashiki hibi]: https://vndb.org/v3144
+[atri -my dear moments-]: https://vndb.org/v27448
+[kimi to kanojo to kanojo no koi]: https://vndb.org/v7738
+[love, money, rock'n'roll]: https://vndb.org/v18809
+[ever 17: the out of infinity]: https://vndb.org/v17
+[higurashi no naku koro ni]: https://vndb.org/v67
+[higurashi no naku koro ni kai]: https://vndb.org/v68
+[higurashi no naku koro ni rei]: https://vndb.org/v69
+[umineko no naku koro ni]: https://vndb.org/v24
+[umineko no naku koro ni chiru]: https://vndb.org/v2153
+[clannad]: https://vndb.org/v4
+[ginka]: https://vndb.org/v38430
+[stella of the end]: https://vndb.org/v29443
+[katawa shoujo]: https://vndb.org/v945
+[everlasting summer]: https://vndb.org/v3126
+[will: a wonderful world]: https://vndb.org/v22702
+[sharin no kuni, himawari no shoujo]: https://vndb.org/v57
+[phenomeno - mitsurugi yoishi wa kowagaranai]: https://vndb.org/v10526
+[a summer's end - hong kong 1986]: https://vndb.org/v26444
+[fate/stay night]: https://vndb.org/v11
 
-[When They Cry Steam]: https://store.steampowered.com/franchise/WhenTheyCry
+[when they cry steam]: https://store.steampowered.com/franchise/WhenTheyCry
 
 ## Next in Line
 
@@ -115,45 +115,45 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 
 *Post a title you want to recommend to me here. It should be playable on Android or Steam Deck.*
 
-[CROSS†CHANNEL]: https://vndb.org/v66
-[Sakura no Toki]: https://vndb.org/v20431
-[White Album 2]: https://vndb.org/v7771
-[CHAOS;HEAD NOAH]: https://vndb.org/v22505
-[CHAOS;CHILD]: https://vndb.org/v14018
-[Committee of Zero patch]: https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher
-[ISLAND]: https://vndb.org/v18498
-[Soukou Akki Muramasa]: https://vndb.org/v2016
-[Root Double]: https://vndb.org/v5000
-[Muv Luv]: https://vndb.org/v93
-[Muv Luv Alternative]: https://vndb.org/v92
-[Dies Irae]: https://vndb.org/v548
-[STEINS;GATE 0]: https://vndb.org/v17102
-[Remember 11: The Age of Infinity]: https://vndb.org/v13
-[428: Shibuya Scramble]: https://vndb.org/v1299
-[Planetarian]: https://vndb.org/v34
-[Little Busters!]: https://vndb.org/v5
-[Summer Pockets]: https://vndb.org/v20424
-[Swan Song]: https://vndb.org/v914
-[Narcissu]: https://vndb.org/v10
-[Sayonara wo Oshiete]: https://vndb.org/v1200
-[Raging Loop]: https://vndb.org/v21289
-[PARANORMASIGHT: The Seven Mysteries of Honjo]: https://vndb.org/v42561
-[Ace Attorney Trilogy]: https://vndb.org/r60512
-[ACE Academy]: https://vndb.org/v13948
-[Crystalline]: https://vndb.org/v19989
-[Ethereal Enigma]: https://vndb.org/v26010
-[Mahoutsukai no Yoru]: https://vndb.org/v777
-[Tsukihime]: https://vndb.org/v7
-[Rewrite]: https://vndb.org/v751
-[BALDR SKY Dive1]: https://vndb.org/v1306
-[BALDR SKY Dive2]: https://vndb.org/v1913
+[cross†channel]: https://vndb.org/v66
+[sakura no toki]: https://vndb.org/v20431
+[white album 2]: https://vndb.org/v7771
+[chaos;head noah]: https://vndb.org/v22505
+[chaos;child]: https://vndb.org/v14018
+[committee of zero patch]: https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher
+[island]: https://vndb.org/v18498
+[soukou akki muramasa]: https://vndb.org/v2016
+[root double]: https://vndb.org/v5000
+[muv luv]: https://vndb.org/v93
+[muv luv alternative]: https://vndb.org/v92
+[dies irae]: https://vndb.org/v548
+[steins;gate 0]: https://vndb.org/v17102
+[remember 11: the age of infinity]: https://vndb.org/v13
+[428: shibuya scramble]: https://vndb.org/v1299
+[planetarian]: https://vndb.org/v34
+[little busters!]: https://vndb.org/v5
+[summer pockets]: https://vndb.org/v20424
+[swan song]: https://vndb.org/v914
+[narcissu]: https://vndb.org/v10
+[sayonara wo oshiete]: https://vndb.org/v1200
+[raging loop]: https://vndb.org/v21289
+[paranormasight: the seven mysteries of honjo]: https://vndb.org/v42561
+[ace attorney trilogy]: https://vndb.org/r60512
+[ace academy]: https://vndb.org/v13948
+[crystalline]: https://vndb.org/v19989
+[ethereal enigma]: https://vndb.org/v26010
+[mahoutsukai no yoru]: https://vndb.org/v777
+[tsukihime]: https://vndb.org/v7
+[rewrite]: https://vndb.org/v751
+[baldr sky dive1]: https://vndb.org/v1306
+[baldr sky dive2]: https://vndb.org/v1913
 [eden*]: https://vndb.org/v1286
-[ROBOTICS;NOTES]: https://vndb.org/v5883
-[ROBOTICS;NOTES DaSH]: https://vndb.org/v21281
-[PARQUET]: https://vndb.org/v31807
-[Tiny Bunny]: https://vndb.org/v21418
-[Doki Doki Literature Club!]: https://vndb.org/v21905
-[Guilty Parade]: https://vndb.org/v25612
+[robotics;notes]: https://vndb.org/v5883
+[robotics;notes dash]: https://vndb.org/v21281
+[parquet]: https://vndb.org/v31807
+[tiny bunny]: https://vndb.org/v21418
+[doki doki literature club!]: https://vndb.org/v21905
+[guilty parade]: https://vndb.org/v25612
 
 ## FAQ
 
@@ -203,10 +203,10 @@ When you play visual novels on a Steam Deck, you may experience video codec erro
 
 Contributions are welcome! This is a personal collection reflecting my own reading experience and preferences - please check the [contribution guidelines](CONTRIBUTING.md) first.
 
-[Android]: https://img.shields.io/badge/Android-snow?logo=android
-[Android: Unofficial]: https://img.shields.io/badge/Android%3A%20Unofficial-snow?logo=android
-[GE-Proton Guide]: https://www.reddit.com/r/SteamDeck/comments/t3n99h/how_to_install_proton_ge_on_steam_deck/
-[Steam Deck]: https://img.shields.io/badge/Steam%20Deck-gray?logo=steam-deck
-[Steam Deck: Unofficial]: https://img.shields.io/badge/Steam%20Deck%3A%20Unofficial-gray?logo=steam-deck
+[android]: https://img.shields.io/badge/Android-snow?logo=android
+[android: unofficial]: https://img.shields.io/badge/Android%3A%20Unofficial-snow?logo=android
+[ge-proton guide]: https://www.reddit.com/r/SteamDeck/comments/t3n99h/how_to_install_proton_ge_on_steam_deck/
+[steam deck]: https://img.shields.io/badge/Steam%20Deck-gray?logo=steam-deck
+[steam deck: unofficial]: https://img.shields.io/badge/Steam%20Deck%3A%20Unofficial-gray?logo=steam-deck
 [vndb.org list sorted by average]: https://vndb.org/v?f=02b2X4T3gja&s=b5w
 [vndb.org list sorted by rating]: https://vndb.org/v?f=02b2X4T3gja&s=b4w
