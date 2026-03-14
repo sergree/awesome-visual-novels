@@ -80,8 +80,8 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 
 - 🔞 [![Steam Deck: Unofficial]][White Album 2] [White Album 2] - Music brings three people together in autumn, creating deep bonds, but a forbidden love that came too late is hidden by winter and revealed in spring. `18+` `In-house`. ***Note: You can start with White Album 2 without playing White Album 1 - you won't miss anything. You'll need to apply [Binary-Eater/WhiteAlbum2-Proton-patch-scripts](https://github.com/Binary-Eater/WhiteAlbum2-Proton-patch-scripts) even when using GE-Proton.***
 - 🔞 [![Steam Deck: Unofficial]][Sakura no Toki] [Sakura no Toki] - The untold stories of artistic geniuses and why artists continue captivating people after death, exploring intersecting human thoughts and creative legacy. `18+` `Artemis`.
-- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaos) [![Steam Deck]](https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/) [CHAOS;HEAD NOAH] - A reclusive otaku is dragged into bizarre serial killings in Shibuya, where the power to make delusions real comes into play. `17+` `In-house`.
-- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaoschild_jp) [![Steam Deck]](https://store.steampowered.com/app/970570/CHAOSCHILD/) [CHAOS;CHILD] - Six years after a devastating earthquake, murders return to Shibuya as people with the power to make their delusions reality begin to awaken. `17+` `In-house`.
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaos) [![Steam Deck]](https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/) [CHAOS;HEAD NOAH] - A reclusive otaku is dragged into bizarre serial killings in Shibuya, where the power to make delusions real comes into play. `17+` `In-house`. ***Note: For the best experience, apply the [Committee of Zero patch].***
+- 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaoschild_jp) [![Steam Deck]](https://store.steampowered.com/app/970570/CHAOSCHILD/) [CHAOS;CHILD] - Six years after a devastating earthquake, murders return to Shibuya as people with the power to make their delusions reality begin to awaken. `17+` `In-house`. ***Note: For the best experience, apply the [Committee of Zero patch].***
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/857450/ISLAND/) [ISLAND] - A time traveler arrives on a secluded island plagued by disease and dark legends, seeking to change its doomed future alongside three girls from once-powerful families. `15+` `CatSystem2`.
 - 🔞 [![Steam Deck: Unofficial]][Soukou Akki Muramasa] [Soukou Akki Muramasa] - A warrior bound by duty wields cursed armor that demands innocent blood for its power, forcing him to slay both evil and good without claiming righteousness. `18+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/438130/Root_Double_Before_Crime__After_Days_Xtend_Edition/) [Root Double] - Nine souls trapped in a research facility basement must escape while solving a bizarre murder through two different perspectives and timelines. `16+` `In-house`.
@@ -120,6 +120,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 [White Album 2]: https://vndb.org/v7771
 [CHAOS;HEAD NOAH]: https://vndb.org/v22505
 [CHAOS;CHILD]: https://vndb.org/v14018
+[Committee of Zero patch]: https://github.com/CommitteeOfZero/polyversal-coz-linux-patcher
 [ISLAND]: https://vndb.org/v18498
 [Soukou Akki Muramasa]: https://vndb.org/v2016
 [Root Double]: https://vndb.org/v5000
