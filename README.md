@@ -1,7 +1,5 @@
 # My Favorite Awesome Visual Novels 🍙 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> 🌸 [ONOMARIKO] - Russian anime blog about faith & life.
-
 A curated list of my favorite visual novels for Android and Steam Deck. This kamige recommendation chart and VN discovery guide represents my personal journey through the best visual novels for handheld devices over several years of reading on portable platforms.
 
 ![STEINS;GATE Art](https://github.com/user-attachments/assets/bf120ca7-2749-4476-9f4f-60e924f5d8e3)
@@ -14,7 +12,6 @@ A curated list of my favorite visual novels for Android and Steam Deck. This kam
 - [My Top Picks](#my-top-picks)
 - [Next in Line](#next-in-line)
 - [FAQ](#faq)
-- [See Also](#see-also)
 
 ## Why Visual Novels
 
@@ -35,7 +32,7 @@ The items in the list are arranged based on the impact they had on me, from the 
 5. 🔞 🛑 💀 [![Steam Deck]](https://store.steampowered.com/app/658620/Wonderful_Everyday_Down_the_RabbitHole/) [Subarashiki Hibi] 💯 - Tokyo high school students navigate mysterious events and deaths in July 2012 as apocalyptic prophecies predict the world's end on the 20th, uncovering dark truths behind the predictions. `18+` `BGI/Ethornell`. ***Note: I cannot recommend this lightly - profoundly disturbing content that will change you forever. PROCEED ONLY IF MENTALLY PREPARED!***
 6. 🎮 [![Android]](https://play.google.com/store/apps/details?id=jp.co.imel.atri_gp) [![Steam Deck]](https://store.steampowered.com/app/1230140/ATRI_My_Dear_Moments/) [ATRI -My Dear Moments-] 💯 - A disillusioned young man, aided by a mysterious debt collector and a sentient robot girl, searches for his grandmother's lost treasure in a flooded world. `15+` `KiriKiri`.
 7. 🔞 [![Android: Unofficial]][Kimi to Kanojo to Kanojo no Koi] [![Steam Deck]](https://store.steampowered.com/app/1293820/YOU_and_ME_and_HER_A_Love_Story/) [Kimi to Kanojo to Kanojo no Koi] 💯 - A withdrawn student's peaceful life changes when he befriends a lonely classmate, rekindling an old friendship and sparking an unexpected love triangle at school. `18+` `Diesel`. ***Note: For the best experience, play this after other visual novels.***
-8. 🌸 [![Android]][onomariko] [ONOMARIKO] **INCOMPLETE** - A Moscow girl navigates faith, identity and the bittersweet beauty of life in this messenger-based story unfolding in real time. `17+` `MAX`. ***Note: 🇷🇺 Russian language only. Follow along as the story unfolds.***
+8. 🌸 [![Android]][onomariko] [ONOMARIKO -Sakura ga Chittemo Shinjiteru Ashita wo-][onomariko] **INCOMPLETE** - A Moscow girl navigates faith, identity and the bittersweet beauty of life in this messenger-based story unfolding in real time. `17+` `MAX`. ***Note: 🇷🇺 Russian language only. Follow along as the story unfolds.***
 9. 🎮 [![Android]](https://play.google.com/store/apps/details?id=su.sovietgames.lovemoneyrocknroll) [![Steam Deck]](https://store.steampowered.com/app/615530/Love_Money_RocknRoll/) [Love, Money, Rock'n'Roll] 💯 - Set in 1980s Japan, a young man attending an elite school becomes embroiled in a complex web of events and relationships, including political intrigue, while searching for love. `12+` `Unity`.
 10. 🎮 [![Android: Unofficial]][Ever 17: The Out of Infinity] [![Steam Deck]](https://store.steampowered.com/app/2392500/Ever_17__The_Out_of_Infinity/) [Ever 17: The Out of Infinity] 💯 - Seven individuals are trapped in an underwater theme park and must find a way to escape within 119 hours while questioning the legitimacy of their predicament. `15+` `VNDS`.
 11. 🎮 [![Android: Unofficial]][Higurashi no Naku Koro ni] [![Steam Deck]][When They Cry Steam] [Higurashi no Naku Koro ni] 💯 + [Kai][Higurashi no Naku Koro ni Kai] 💯 + [Rei][Higurashi no Naku Koro ni Rei] 💯 - A new student moves to a peaceful rural village and befriends his classmates, but discovers a dark history of murder and paranoia surrounding the annual local festival. `17+` `NScripter`.
@@ -86,7 +83,7 @@ This is a list of visual novels that I plan to read or am currently reading. Man
 - 🔞 [![Steam Deck: Unofficial]][Sakura no Toki] [Sakura no Toki] - The untold stories of artistic geniuses and why artists continue captivating people after death, exploring intersecting human thoughts and creative legacy. `18+` `Artemis`.
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaos) [![Steam Deck]](https://store.steampowered.com/app/1961950/CHAOSHEAD_NOAH/) [CHAOS;HEAD NOAH] - A reclusive otaku is dragged into bizarre serial killings in Shibuya, where the power to make delusions real comes into play. `17+` `In-house`. ***Note: For the best experience, apply the [Committee of Zero patch].***
 - 🎮 [![Android]](https://play.google.com/store/apps/details?id=com.mages.chaoschild_jp) [![Steam Deck]](https://store.steampowered.com/app/970570/CHAOSCHILD/) [CHAOS;CHILD] - Six years after a devastating earthquake, murders return to Shibuya as people with the power to make their delusions reality begin to awaken. `17+` `In-house`. ***Note: For the best experience, apply the [Committee of Zero patch].***
-- 🌸 [![Android]][onomariko] [ONOMARIKO] **INCOMPLETE** - A Moscow girl navigates faith, identity and the bittersweet beauty of life in this messenger-based story unfolding in real time. `17+` `MAX`. ***Note: 🇷🇺 Russian language only. Follow along as the story unfolds.***
+- 🌸 [![Android]][onomariko] [ONOMARIKO -Sakura ga Chittemo Shinjiteru Ashita wo-][onomariko] **INCOMPLETE** - A Moscow girl navigates faith, identity and the bittersweet beauty of life in this messenger-based story unfolding in real time. `17+` `MAX`. ***Note: 🇷🇺 Russian language only. Follow along as the story unfolds.***
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/857450/ISLAND/) [ISLAND] - A time traveler arrives on a secluded island plagued by disease and dark legends, seeking to change its doomed future alongside three girls from once-powerful families. `15+` `CatSystem2`.
 - 🔞 [![Steam Deck: Unofficial]][Soukou Akki Muramasa] [Soukou Akki Muramasa] - A warrior bound by duty wields cursed armor that demands innocent blood for its power, forcing him to slay both evil and good without claiming righteousness. `18+` `In-house`.
 - 🎮 [![Steam Deck]](https://store.steampowered.com/app/438130/Root_Double_Before_Crime__After_Days_Xtend_Edition/) [Root Double] - Nine souls trapped in a research facility basement must escape while solving a bizarre murder through two different perspectives and timelines. `16+` `In-house`.
@@ -168,17 +165,18 @@ I use several methods:
 
 - [vndb.org list sorted by rating]
 - [vndb.org list sorted by average]
-- [vn-russian.ru list](https://vn-russian.ru/chart/?sort=-visual_novel__rate)
-- [ruvn.org list with specific filtering](https://ruvn.org/novels?sort=mixRating)
 - VK groups like:
   - [НВН](https://vk.com/visualnovel_ru)
-  - [Визуальные новеллы для Android](https://vk.com/visual_android)
   - [Энтузиасты Team](https://vk.com/littlebustersvn)
   - [Творческий уголок переводчиков](https://vk.com/creative_corner_vn)
-  - [Otorhin](https://vk.com/otorhin)
   - [Yasuragi](https://vk.com/yasuragivn)
+- Telegram Groups like:
+  - [VienDesu! Porting Team](https://t.me/visual_novels_for_android)
+  - [Innocence translations](https://t.me/innocence_translations)
+  - [Otorhin](https://t.me/otorhin)
+  - [Самец Апельсина](https://t.me/SamecApelsina)
 - Tips from my friends
-- Tips from [Claude Sonnet](https://claude.ai)
+- Tips from [Claude](https://claude.ai)
 
 > *Why are only visual novels for Android and Steam Deck listed here?*
 
@@ -203,10 +201,6 @@ For most visual novels, you will need to install `Bottles` using the `Discover` 
 > *Why do some videos from visual novels not work on a Steam Deck?*
 
 When you play visual novels on a Steam Deck, you may experience video codec errors, video skipping, or even see a "test pattern" placeholder instead of actual video playback. This issue occurs because the standard Proton version from Valve lacks certain proprietary video codecs that many visual novels rely on. Fortunately, the solution is straightforward: you need to install `GE-Proton` (a community-enhanced version of Proton) via `ProtonUp-Qt`, which is available in the `Discover` app, and then apply it to your game. For detailed installation instructions, please follow [this guide][GE-Proton Guide].
-
-## See Also
-
-- 🌸 [ONOMARIKO] - Russian anime blog about faith & life.
 
 ## Contributing
 
