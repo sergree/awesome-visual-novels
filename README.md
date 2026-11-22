@@ -76,6 +76,8 @@ The items in the list are arranged based on the impact they had on me, from the 
 
 [when they cry steam]: https://store.steampowered.com/franchise/WhenTheyCry
 
+I also keep track of what I've read on [VNDB](https://vndb.org/u369785).
+
 ## Next in Line
 
 This is a list of visual novels that I plan to read or am currently reading. Many of them have yet to be checked by me. The list is ordered by reading priority.
